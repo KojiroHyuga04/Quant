@@ -1,0 +1,16 @@
+Source,Destination,Capacity/Mbps,Ping/ms,Jitter/ms,Medium
+S_Backbone,Santral_Bahce,10000,6,2,Fiber
+S_Backbone,Santral_Duzici,10000,4,1,Fiber
+S_Backbone,Santral_Hasanbeyli,10000,7,2.2,Fiber
+S_Backbone,Santral_Kadirli,10000,5,1.2,Fiber
+S_Backbone,Santral_Sumbas,10000,8,2.5,Fiber
+S_Backbone,Santral_Toprakkale,10000,4,1,Fiber
+Santral_Bahce,Bahce,750,8,2.5,Fiber
+Santral_Duzici,Duzici,950,4,1.2,Fiber
+Santral_Hasanbeyli,Hasanbeyli,950,6,1.8,Fiber
+Santral_Kadirli,Kadirli,1000,3,0.9,Fiber
+Santral_Sumbas,Sumbas,950,7,2,Fiber
+Santral_Toprakkale,Toprakkale,950,4,1.1,Fiber
+Santral_Bahce,Santral_Duzici,400,9,2.8,Copper
+Santral_Hasanbeyli,Santral_Bahce,300,13,3.5,Copper
+Santral_Kadirli,Santral_Sumbas,200,15,4.5,Radio
