@@ -1,0 +1,7 @@
+District,Throughput,Used Path,Ping of Path/ms,Jitter of Path/ms
+Bahce,750,S_Backbone -> Santral_Bahce -> Bahce,14,4.5
+Duzici,950,S_Backbone -> Santral_Duzici -> Duzici,8,2.2
+Hasanbeyli,0,(Not Available-Not Connected,,
+Kadirli,1000,S_Backbone -> Santral_Kadirli -> Kadirli,8,2.1
+Sumbas,0,Not Available-Not Connected,,
+Toprakkale,950,S_Backbone -> Santral_Toprakkale -> Toprakkale,8,2.1
